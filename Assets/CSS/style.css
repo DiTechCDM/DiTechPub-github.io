@@ -1839,6 +1839,13 @@ input[type="radio"]:checked~.bullet .line.seven {
     display: none;
 } */
 
+#video-correct {
+    margin: auto;
+}
+#video-incorrect {
+    margin: auto;
+}
+
 .swal-button:not([disabled]):hover {
     background-color: #ff383e;
 }
