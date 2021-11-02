@@ -1853,10 +1853,10 @@ input[type="radio"]:checked~.bullet .line.seven {
         margin-top: 10rem;
     }
     #video-correct {
-        margin: 10rem auto;
+        margin: 10rem auto !important;
     }
     #video-incorrect {
-        margin: 10rem auto;
+        margin: 10rem auto !important;
     }
 }
 
