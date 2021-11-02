@@ -1962,11 +1962,11 @@ input[type="radio"]:checked~.bullet .line.seven {
 
 @media screen and (max-width: 538px) {
     #video-correct {
-        width: 163px;
+        width: 210px;
         top: -559px;
     }
     #video-incorrect {
-        width: 163px;
+        width: 210px;
         top: -559px;
     }
     .swal-modal {
@@ -2015,11 +2015,11 @@ input[type="radio"]:checked~.bullet .line.seven {
         top: -105px;
     }
     #video-correct {
-        width: 135px;
+        width: 210px;
         top: -559px;
     }
     #video-incorrect {
-        width: 135px;
+        width: 210px;
         top: -559px;
     }
 }
